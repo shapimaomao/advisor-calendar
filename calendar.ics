@@ -1,5 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Advisor//CN
-X-WR-CALNAME:留学网申督导管理日历
+PRODID:-//Advisor Student Management System//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:留学督导管理日历
+X-WR-CALDESC:留学网申督办系统-全员申请截止日与督学待办事项
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:test-init@advisor.app
+DTSTAMP:20260812T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:【留学督导系统】GitHub 日历订阅已成功激活
+DESCRIPTION:您的 GitHub 专属日历源 (shapimaomao/advisor-calendar) 已成功部署！可在 iPhone 或 Google 日历中随时接收推送。
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
