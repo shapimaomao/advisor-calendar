@@ -7,12 +7,544 @@ X-WR-CALNAME:留学督导管理日历
 X-WR-CALDESC:留学网申督办系统-全员申请截止日与督学待办事项
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-UID:mat-global-student-gu-cv@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
+UID:mat-global-student-1784706808860-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:[材料反馈] 汤珈琪: 个人简历 (CV)
+DESCRIPTION:学生: 汤珈琪\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充内容
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 汤珈琪: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1784706808860-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260831
+SUMMARY:[材料反馈] 汤珈琪: 个人简历 (CV)
+DESCRIPTION:学生: 汤珈琪\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充内容
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 汤珈琪: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1784706808860-recLetter1@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:[材料反馈] 汤珈琪: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 汤珈琪\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 放假了老师都联系不上，学生开学后联系
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 汤珈琪: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1784706808860-recLetter1-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260915
+SUMMARY:[材料反馈] 汤珈琪: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 汤珈琪\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 放假了老师都联系不上，学生开学后联系
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 汤珈琪: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1784706808860-recLetter2@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:[材料反馈] 汤珈琪: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 汤珈琪\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 放假了老师都联系不上，学生开学后联系
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 汤珈琪: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1784706808860-recLetter2-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260915
+SUMMARY:[材料反馈] 汤珈琪: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 汤珈琪\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 放假了老师都联系不上，学生开学后联系
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 汤珈琪: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-app-student-1784706808860-app-1786002144362-pdi2-ps@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:[专属要件] 汤珈琪 - 香港理工大学: 个人陈述 (PS)
+DESCRIPTION:学生: 汤珈琪\n目标高校: 香港理工大学 (Innovative Multimedia Entertainment (MSc))\n要件: 个人陈述 (PS)\n状态: 已完成
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [专属要件] 汤珈琪 - 香港理工大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-app-student-1784706808860-app-1786002144362-pdi2-ps-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20261001
+SUMMARY:[专属要件] 汤珈琪 - 香港理工大学: 个人陈述 (PS)
+DESCRIPTION:学生: 汤珈琪\n目标高校: 香港理工大学 (Innovative Multimedia Entertainment (MSc))\n要件: 个人陈述 (PS)\n状态: 已完成
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [专属要件] 汤珈琪 - 香港理工大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-app-student-1784706808860-app-1786002144362-wm25-ps@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:[专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+DESCRIPTION:学生: 汤珈琪\n目标高校: 香港城市大学 (MA Creative Media)\n要件: 个人陈述 (PS)\n状态: 未开始
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-app-student-1784706808860-app-1786002144362-wm25-ps-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260820
+SUMMARY:[专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+DESCRIPTION:学生: 汤珈琪\n目标高校: 香港城市大学 (MA Creative Media)\n要件: 个人陈述 (PS)\n状态: 未开始
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-app-student-1784706808860-app-1786002144362-sgat-ps@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:[专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+DESCRIPTION:学生: 汤珈琪\n目标高校: 香港城市大学 (MFA Creative Media)\n要件: 个人陈述 (PS)\n状态: 未开始
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-app-student-1784706808860-app-1786002144362-sgat-ps-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260820
+SUMMARY:[专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+DESCRIPTION:学生: 汤珈琪\n目标高校: 香港城市大学 (MFA Creative Media)\n要件: 个人陈述 (PS)\n状态: 未开始
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [专属要件] 汤珈琪 - 香港城市大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785126032526-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:[材料反馈] 周睿: 个人简历 (CV)
+DESCRIPTION:学生: 周睿\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 无
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 周睿: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785126032526-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260810
+SUMMARY:[材料反馈] 周睿: 个人简历 (CV)
+DESCRIPTION:学生: 周睿\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 无
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 周睿: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785204987537-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:[材料反馈] 谢旭: 个人简历 (CV)
+DESCRIPTION:学生: 谢旭\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生修改补充
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 谢旭: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785204987537-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260830
+SUMMARY:[材料反馈] 谢旭: 个人简历 (CV)
+DESCRIPTION:学生: 谢旭\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生修改补充
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 谢旭: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785204987537-recLetter1@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:[材料反馈] 谢旭: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 谢旭\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 待学生写初稿
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 谢旭: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785204987537-recLetter1-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260813
+SUMMARY:[材料反馈] 谢旭: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 谢旭\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 待学生写初稿
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 谢旭: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785204987537-recLetter2@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:[材料反馈] 谢旭: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 谢旭\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 待学生写初稿
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 谢旭: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785204987537-recLetter2-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260813
+SUMMARY:[材料反馈] 谢旭: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 谢旭\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 待学生写初稿
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 谢旭: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785398285047-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[材料反馈] 李小彤: 个人简历 (CV)
+DESCRIPTION:学生: 李小彤\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 李小彤: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785398285047-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260815
+SUMMARY:[材料反馈] 李小彤: 个人简历 (CV)
+DESCRIPTION:学生: 李小彤\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 李小彤: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785398285047-recLetter1@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[材料反馈] 李小彤: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 李小彤\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 无
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 李小彤: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785398285047-recLetter1-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260815
+SUMMARY:[材料反馈] 李小彤: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 李小彤\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 无
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 李小彤: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785398285047-recLetter2@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:[材料反馈] 李小彤: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 李小彤\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 无
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 李小彤: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785398285047-recLetter2-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260815
+SUMMARY:[材料反馈] 李小彤: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 李小彤\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 无
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 李小彤: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785468453347-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:[材料反馈] 彭俊娴: 个人简历 (CV)
+DESCRIPTION:学生: 彭俊娴\n通用要件: 个人简历 (CV)\n状态: 准备中\n说明: 已有初稿，待学生补充
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 彭俊娴: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785468453347-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260830
+SUMMARY:[材料反馈] 彭俊娴: 个人简历 (CV)
+DESCRIPTION:学生: 彭俊娴\n通用要件: 个人简历 (CV)\n状态: 准备中\n说明: 已有初稿，待学生补充
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 彭俊娴: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785468453347-recLetter1@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:[材料反馈] 彭俊娴: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 彭俊娴\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 无
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 彭俊娴: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785468453347-recLetter1-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260905
+SUMMARY:[材料反馈] 彭俊娴: 推荐信 1 (RL 1)
+DESCRIPTION:学生: 彭俊娴\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 无
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 彭俊娴: 推荐信 1 (RL 1)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785468453347-recLetter2@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:[材料反馈] 彭俊娴: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 彭俊娴\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 无
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 彭俊娴: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785468453347-recLetter2-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260905
+SUMMARY:[材料反馈] 彭俊娴: 推荐信 2 (RL 2)
+DESCRIPTION:学生: 彭俊娴\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 无
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 彭俊娴: 推荐信 2 (RL 2)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-app-student-1785468453347-app-1785468860269-9zg7-ps@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:[专属要件] 彭俊娴 - 爱丁堡大学: 个人陈述 (PS)
+DESCRIPTION:学生: 彭俊娴\n目标高校: 爱丁堡大学 (Graphic Design MA)\n要件: 个人陈述 (PS)\n状态: 未开始
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [专属要件] 彭俊娴 - 爱丁堡大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-app-student-1785468453347-app-1785468860269-9zg7-ps-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260831
+SUMMARY:[专属要件] 彭俊娴 - 爱丁堡大学: 个人陈述 (PS)
+DESCRIPTION:学生: 彭俊娴\n目标高校: 爱丁堡大学 (Graphic Design MA)\n要件: 个人陈述 (PS)\n状态: 未开始
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [专属要件] 彭俊娴 - 爱丁堡大学: 个人陈述 (PS)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785488767830-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:[材料反馈] 曾夕桐: 个人简历 (CV)
+DESCRIPTION:学生: 曾夕桐\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [材料反馈] 曾夕桐: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:mat-global-student-1785488767830-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260820
+SUMMARY:[材料反馈] 曾夕桐: 个人简历 (CV)
+DESCRIPTION:学生: 曾夕桐\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [材料反馈] 曾夕桐: 个人简历 (CV)
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:todo-student-1785488767830-todo-1785488767830-1@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:[督学待办] 曾夕桐: 起草通用个人简历 (CV) 第一版
+DESCRIPTION:学生: 曾夕桐\n待办内容: 起草通用个人简历 (CV) 第一版\n关联学校: 通用\n状态: 已完成
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:督学提醒: [督学待办] 曾夕桐: 起草通用个人简历 (CV) 第一版
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+UID:todo-student-1785488767830-todo-1785488767830-1-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260728
+SUMMARY:[督学待办] 曾夕桐: 起草通用个人简历 (CV) 第一版
+DESCRIPTION:学生: 曾夕桐\n待办内容: 起草通用个人简历 (CV) 第一版\n关联学校: 通用\n状态: 已完成
+STATUS:NEEDS-ACTION
+PRIORITY:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:待办提醒: [督学待办] 曾夕桐: 起草通用个人简历 (CV) 第一版
+TRIGGER:-P0DT9H0M0S
+END:VALARM
+END:VTODO
+BEGIN:VEVENT
+UID:mat-global-student-1785917648083-cv@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
 SUMMARY:[材料反馈] 古弘懿: 个人简历 (CV)
-DESCRIPTION:学生: 古弘懿\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 通用CV英文版已搞定。
+DESCRIPTION:学生: 古弘懿\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -21,11 +553,11 @@ TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:mat-global-student-gu-cv-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260725
+UID:mat-global-student-1785917648083-cv-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260831
 SUMMARY:[材料反馈] 古弘懿: 个人简历 (CV)
-DESCRIPTION:学生: 古弘懿\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 通用CV英文版已搞定。
+DESCRIPTION:学生: 古弘懿\n通用要件: 个人简历 (CV)\n状态: 待修改\n说明: 已有初稿，待学生补充
 STATUS:NEEDS-ACTION
 PRIORITY:1
 BEGIN:VALARM
@@ -35,12 +567,12 @@ TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VTODO
 BEGIN:VEVENT
-UID:mat-global-student-gu-recLetter1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
+UID:mat-global-student-1785917648083-recLetter1@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
 SUMMARY:[材料反馈] 古弘懿: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 1 (RL 1)\n状态: 准备中\n说明: 学术推荐人A已大致同意。
+DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 1 (RL 1)\n状态: 待修改\n说明: 已有初稿，待学生补充
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -49,11 +581,11 @@ TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:mat-global-student-gu-recLetter1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260825
+UID:mat-global-student-1785917648083-recLetter1-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260831
 SUMMARY:[材料反馈] 古弘懿: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 1 (RL 1)\n状态: 准备中\n说明: 学术推荐人A已大致同意。
+DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 1 (RL 1)\n状态: 待修改\n说明: 已有初稿，待学生补充
 STATUS:NEEDS-ACTION
 PRIORITY:1
 BEGIN:VALARM
@@ -63,12 +595,12 @@ TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VTODO
 BEGIN:VEVENT
-UID:mat-global-student-gu-recLetter2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
+UID:mat-global-student-1785917648083-recLetter2@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
 SUMMARY:[材料反馈] 古弘懿: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 2 (RL 2)\n状态: 准备中\n说明: 学术推荐人B沟通中。
+DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 2 (RL 2)\n状态: 待修改\n说明: 已有初稿，待学生补充
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -77,11 +609,11 @@ TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:mat-global-student-gu-recLetter2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260830
+UID:mat-global-student-1785917648083-recLetter2-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260831
 SUMMARY:[材料反馈] 古弘懿: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 2 (RL 2)\n状态: 准备中\n说明: 学术推荐人B沟通中。
+DESCRIPTION:学生: 古弘懿\n通用要件: 推荐信 2 (RL 2)\n状态: 待修改\n说明: 已有初稿，待学生补充
 STATUS:NEEDS-ACTION
 PRIORITY:1
 BEGIN:VALARM
@@ -91,1542 +623,86 @@ TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VTODO
 BEGIN:VEVENT
-UID:mat-global-student-gu-transcript@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:[材料反馈] 古弘懿: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 古弘懿\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 大一至大三官方中英文成绩单已扫描。
+UID:mat-app-student-1785917648083-app-1785922030679-3hto-ps@advisor.app
+DTSTAMP:20260812T081503Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:[专属要件] 古弘懿 - 香港理工大学: 个人陈述 (PS)
+DESCRIPTION:学生: 古弘懿\n目标高校: 香港理工大学 (Innovative Multimedia Entertainment (MSc))\n要件: 个人陈述 (PS)\n状态: 待修改
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 古弘懿: 中英文成绩单 (Transcripts)
+DESCRIPTION:督学提醒: [专属要件] 古弘懿 - 香港理工大学: 个人陈述 (PS)
 TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:mat-global-student-gu-transcript-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260720
-SUMMARY:[材料反馈] 古弘懿: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 古弘懿\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 大一至大三官方中英文成绩单已扫描。
+UID:mat-app-student-1785917648083-app-1785922030679-3hto-ps-todo@advisor.app
+DTSTAMP:20260812T081503Z
+DUE;VALUE=DATE:20260831
+SUMMARY:[专属要件] 古弘懿 - 香港理工大学: 个人陈述 (PS)
+DESCRIPTION:学生: 古弘懿\n目标高校: 香港理工大学 (Innovative Multimedia Entertainment (MSc))\n要件: 个人陈述 (PS)\n状态: 待修改
 STATUS:NEEDS-ACTION
 PRIORITY:1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 古弘懿: 中英文成绩单 (Transcripts)
+DESCRIPTION:待办提醒: [专属要件] 古弘懿 - 香港理工大学: 个人陈述 (PS)
 TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VTODO
 BEGIN:VEVENT
-UID:mat-global-student-gu-enrollmentCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:[材料反馈] 古弘懿: 在读证明 (Enrollment Cert)
-DESCRIPTION:学生: 古弘懿\n通用要件: 在读证明 (Enrollment Cert)\n状态: 已完成\n说明: 中英文在读证明已开具。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 古弘懿: 在读证明 (Enrollment Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-gu-enrollmentCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260720
-SUMMARY:[材料反馈] 古弘懿: 在读证明 (Enrollment Cert)
-DESCRIPTION:学生: 古弘懿\n通用要件: 在读证明 (Enrollment Cert)\n状态: 已完成\n说明: 中英文在读证明已开具。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 古弘懿: 在读证明 (Enrollment Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-gu-gradingSystem@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:[材料反馈] 古弘懿: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 古弘懿\n通用要件: 成绩评分标准 (Grading System)\n状态: 未开始\n说明: 官方评分标准待获取。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 古弘懿: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-gu-gradingSystem-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260910
-SUMMARY:[材料反馈] 古弘懿: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 古弘懿\n通用要件: 成绩评分标准 (Grading System)\n状态: 未开始\n说明: 官方评分标准待获取。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 古弘懿: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-gu-app-gu-1-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[专属要件] 古弘懿 - 新加坡国立大学: 个人陈述 (PS)
-DESCRIPTION:学生: 古弘懿\n目标高校: 新加坡国立大学 (MS in Computer Science)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 古弘懿 - 新加坡国立大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-gu-app-gu-1-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260815
-SUMMARY:[专属要件] 古弘懿 - 新加坡国立大学: 个人陈述 (PS)
-DESCRIPTION:学生: 古弘懿\n目标高校: 新加坡国立大学 (MS in Computer Science)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 古弘懿 - 新加坡国立大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-gu-app-gu-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:[申请截止] 古弘懿 - 新加坡国立大学
-DESCRIPTION:学生: 古弘懿\n申请高校: 新加坡国立大学\n项目: MS in Computer Science\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 古弘懿 - 新加坡国立大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-gu-app-gu-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261115
-SUMMARY:[申请截止] 古弘懿 - 新加坡国立大学
-DESCRIPTION:学生: 古弘懿\n申请高校: 新加坡国立大学\n项目: MS in Computer Science\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 古弘懿 - 新加坡国立大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-gu-app-gu-2-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:[专属要件] 古弘懿 - 南洋理工大学: 个人陈述 (PS)
-DESCRIPTION:学生: 古弘懿\n目标高校: 南洋理工大学 (MSc in Data Science)\n要件: 个人陈述 (PS)\n状态: 未开始
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 古弘懿 - 南洋理工大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-gu-app-gu-2-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260830
-SUMMARY:[专属要件] 古弘懿 - 南洋理工大学: 个人陈述 (PS)
-DESCRIPTION:学生: 古弘懿\n目标高校: 南洋理工大学 (MSc in Data Science)\n要件: 个人陈述 (PS)\n状态: 未开始
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 古弘懿 - 南洋理工大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-gu-app-gu-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:[申请截止] 古弘懿 - 南洋理工大学
-DESCRIPTION:学生: 古弘懿\n申请高校: 南洋理工大学\n项目: MSc in Data Science\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 古弘懿 - 南洋理工大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-gu-app-gu-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261231
-SUMMARY:[申请截止] 古弘懿 - 南洋理工大学
-DESCRIPTION:学生: 古弘懿\n申请高校: 南洋理工大学\n项目: MSc in Data Science\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 古弘懿 - 南洋理工大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-gu-todo-gu-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:[督学待办] 古弘懿: 起草新加坡国立大学 (NUS) 的个人陈述（PS）初稿大纲
-DESCRIPTION:学生: 古弘懿\n待办内容: 起草新加坡国立大学 (NUS) 的个人陈述（PS）初稿大纲\n关联学校: 新加坡国立大学 (NUS)\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 古弘懿: 起草新加坡国立大学 (NUS) 的个人陈述（PS）初稿大纲
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-gu-todo-gu-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260810
-SUMMARY:[督学待办] 古弘懿: 起草新加坡国立大学 (NUS) 的个人陈述（PS）初稿大纲
-DESCRIPTION:学生: 古弘懿\n待办内容: 起草新加坡国立大学 (NUS) 的个人陈述（PS）初稿大纲\n关联学校: 新加坡国立大学 (NUS)\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 古弘懿: 起草新加坡国立大学 (NUS) 的个人陈述（PS）初稿大纲
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-gu-todo-gu-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:[督学待办] 古弘懿: 与两位推荐人教授沟通推荐信撰写事宜
-DESCRIPTION:学生: 古弘懿\n待办内容: 与两位推荐人教授沟通推荐信撰写事宜\n关联学校: 通用\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 古弘懿: 与两位推荐人教授沟通推荐信撰写事宜
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-gu-todo-gu-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260730
-SUMMARY:[督学待办] 古弘懿: 与两位推荐人教授沟通推荐信撰写事宜
-DESCRIPTION:学生: 古弘懿\n待办内容: 与两位推荐人教授沟通推荐信撰写事宜\n关联学校: 通用\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 古弘懿: 与两位推荐人教授沟通推荐信撰写事宜
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-gu-todo-gu-3@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[督学待办] 古弘懿: 扫描大一至大三的中英文官方成绩单与在读证明
-DESCRIPTION:学生: 古弘懿\n待办内容: 扫描大一至大三的中英文官方成绩单与在读证明\n关联学校: 通用\n状态: 已完成
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 古弘懿: 扫描大一至大三的中英文官方成绩单与在读证明
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-gu-todo-gu-3-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260722
-SUMMARY:[督学待办] 古弘懿: 扫描大一至大三的中英文官方成绩单与在读证明
-DESCRIPTION:学生: 古弘懿\n待办内容: 扫描大一至大三的中英文官方成绩单与在读证明\n关联学校: 通用\n状态: 已完成
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 古弘懿: 扫描大一至大三的中英文官方成绩单与在读证明
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-cv@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[材料反馈] 林舒航: 个人简历 (CV)
-DESCRIPTION:学生: 林舒航\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 简历终稿已确定。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 个人简历 (CV)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-cv-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260725
-SUMMARY:[材料反馈] 林舒航: 个人简历 (CV)
-DESCRIPTION:学生: 林舒航\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 简历终稿已确定。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 个人简历 (CV)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-recLetter1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:[材料反馈] 林舒航: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 林舒航\n通用要件: 推荐信 1 (RL 1)\n状态: 准备中\n说明: 王教授已同意，学生已提供写作提纲。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 推荐信 1 (RL 1)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-recLetter1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260825
-SUMMARY:[材料反馈] 林舒航: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 林舒航\n通用要件: 推荐信 1 (RL 1)\n状态: 准备中\n说明: 王教授已同意，学生已提供写作提纲。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 推荐信 1 (RL 1)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-recLetter2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:[材料反馈] 林舒航: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 林舒航\n通用要件: 推荐信 2 (RL 2)\n状态: 待修改\n说明: 张副教授反馈需要补充科研细节。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 推荐信 2 (RL 2)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-recLetter2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260810
-SUMMARY:[材料反馈] 林舒航: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 林舒航\n通用要件: 推荐信 2 (RL 2)\n状态: 待修改\n说明: 张副教授反馈需要补充科研细节。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 推荐信 2 (RL 2)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-transcript@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:[材料反馈] 林舒航: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 林舒航\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 前三年完整成绩单中英文已盖章。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 中英文成绩单 (Transcripts)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-transcript-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260720
-SUMMARY:[材料反馈] 林舒航: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 林舒航\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 前三年完整成绩单中英文已盖章。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 中英文成绩单 (Transcripts)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-enrollmentCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-SUMMARY:[材料反馈] 林舒航: 在读证明 (Enrollment Cert)
-DESCRIPTION:学生: 林舒航\n通用要件: 在读证明 (Enrollment Cert)\n状态: 已完成\n说明: 中英文在读证明已开具。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 在读证明 (Enrollment Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-enrollmentCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260720
-SUMMARY:[材料反馈] 林舒航: 在读证明 (Enrollment Cert)
-DESCRIPTION:学生: 林舒航\n通用要件: 在读证明 (Enrollment Cert)\n状态: 已完成\n说明: 中英文在读证明已开具。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 在读证明 (Enrollment Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-gradingSystem@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:[材料反馈] 林舒航: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 林舒航\n通用要件: 成绩评分标准 (Grading System)\n状态: 未开始\n说明: 学校官网下载，需教务处盖章。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-gradingSystem-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260910
-SUMMARY:[材料反馈] 林舒航: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 林舒航\n通用要件: 成绩评分标准 (Grading System)\n状态: 未开始\n说明: 学校官网下载，需教务处盖章。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-1-gpaCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:[材料反馈] 林舒航: 均分证明 (GPA Cert)
-DESCRIPTION:学生: 林舒航\n通用要件: 均分证明 (GPA Cert)\n状态: 准备中\n说明: 教务处暑期不办公，待开学办理。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 林舒航: 均分证明 (GPA Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-1-gpaCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260915
-SUMMARY:[材料反馈] 林舒航: 均分证明 (GPA Cert)
-DESCRIPTION:学生: 林舒航\n通用要件: 均分证明 (GPA Cert)\n状态: 准备中\n说明: 教务处暑期不办公，待开学办理。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 林舒航: 均分证明 (GPA Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-1-app-1-1-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[专属要件] 林舒航 - 卡内基梅隆大学: 个人陈述 (PS)
-DESCRIPTION:学生: 林舒航\n目标高校: 卡内基梅隆大学 (MS in Computer Science)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 林舒航 - 卡内基梅隆大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-1-app-1-1-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260815
-SUMMARY:[专属要件] 林舒航 - 卡内基梅隆大学: 个人陈述 (PS)
-DESCRIPTION:学生: 林舒航\n目标高校: 卡内基梅隆大学 (MS in Computer Science)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 林舒航 - 卡内基梅隆大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-1-app-1-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:[申请截止] 林舒航 - 卡内基梅隆大学
-DESCRIPTION:学生: 林舒航\n申请高校: 卡内基梅隆大学\n项目: MS in Computer Science\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 林舒航 - 卡内基梅隆大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-1-app-1-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261201
-SUMMARY:[申请截止] 林舒航 - 卡内基梅隆大学
-DESCRIPTION:学生: 林舒航\n申请高校: 卡内基梅隆大学\n项目: MS in Computer Science\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 林舒航 - 卡内基梅隆大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-1-app-1-2-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:[专属要件] 林舒航 - 南加州大学: 个人陈述 (PS)
-DESCRIPTION:学生: 林舒航\n目标高校: 南加州大学 (MS in Computer Science)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 林舒航 - 南加州大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-1-app-1-2-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260901
-SUMMARY:[专属要件] 林舒航 - 南加州大学: 个人陈述 (PS)
-DESCRIPTION:学生: 林舒航\n目标高校: 南加州大学 (MS in Computer Science)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 林舒航 - 南加州大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-1-app-1-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:[申请截止] 林舒航 - 南加州大学
-DESCRIPTION:学生: 林舒航\n申请高校: 南加州大学\n项目: MS in Computer Science\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 林舒航 - 南加州大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-1-app-1-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261215
-SUMMARY:[申请截止] 林舒航 - 南加州大学
-DESCRIPTION:学生: 林舒航\n申请高校: 南加州大学\n项目: MS in Computer Science\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 林舒航 - 南加州大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-1-todo-1-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[督学待办] 林舒航: 修改CMU 个人陈述（第2版）
-DESCRIPTION:学生: 林舒航\n待办内容: 修改CMU 个人陈述（第2版）\n关联学校: 卡内基梅隆大学\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 林舒航: 修改CMU 个人陈述（第2版）
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-1-todo-1-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260815
-SUMMARY:[督学待办] 林舒航: 修改CMU 个人陈述（第2版）
-DESCRIPTION:学生: 林舒航\n待办内容: 修改CMU 个人陈述（第2版）\n关联学校: 卡内基梅隆大学\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 林舒航: 修改CMU 个人陈述（第2版）
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-1-todo-1-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-SUMMARY:[督学待办] 林舒航: 邮件王教授催收推荐信大纲确认
-DESCRIPTION:学生: 林舒航\n待办内容: 邮件王教授催收推荐信大纲确认\n关联学校: 卡内基梅隆大学\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 林舒航: 邮件王教授催收推荐信大纲确认
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-1-todo-1-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260724
-SUMMARY:[督学待办] 林舒航: 邮件王教授催收推荐信大纲确认
-DESCRIPTION:学生: 林舒航\n待办内容: 邮件王教授催收推荐信大纲确认\n关联学校: 卡内基梅隆大学\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 林舒航: 邮件王教授催收推荐信大纲确认
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-1-todo-1-3@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:[督学待办] 林舒航: 扫描备份已敲章的在读证明与成绩单
-DESCRIPTION:学生: 林舒航\n待办内容: 扫描备份已敲章的在读证明与成绩单\n关联学校: 通用\n状态: 已完成
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 林舒航: 扫描备份已敲章的在读证明与成绩单
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-1-todo-1-3-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260722
-SUMMARY:[督学待办] 林舒航: 扫描备份已敲章的在读证明与成绩单
-DESCRIPTION:学生: 林舒航\n待办内容: 扫描备份已敲章的在读证明与成绩单\n关联学校: 通用\n状态: 已完成
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 林舒航: 扫描备份已敲章的在读证明与成绩单
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-cv@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:[材料反馈] 张怡婷: 个人简历 (CV)
-DESCRIPTION:学生: 张怡婷\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 突出交互设计项目经历。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 个人简历 (CV)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-cv-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260715
-SUMMARY:[材料反馈] 张怡婷: 个人简历 (CV)
-DESCRIPTION:学生: 张怡婷\n通用要件: 个人简历 (CV)\n状态: 已完成\n说明: 突出交互设计项目经历。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 个人简历 (CV)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-recLetter1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[材料反馈] 张怡婷: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 张怡婷\n通用要件: 推荐信 1 (RL 1)\n状态: 已完成\n说明: 毕业设计导师已提交。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 推荐信 1 (RL 1)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-recLetter1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260710
-SUMMARY:[材料反馈] 张怡婷: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 张怡婷\n通用要件: 推荐信 1 (RL 1)\n状态: 已完成\n说明: 毕业设计导师已提交。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 推荐信 1 (RL 1)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-recLetter2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[材料反馈] 张怡婷: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 张怡婷\n通用要件: 推荐信 2 (RL 2)\n状态: 准备中\n说明: 实习公司创意总监已答应，撰写中。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 推荐信 2 (RL 2)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-recLetter2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260815
-SUMMARY:[材料反馈] 张怡婷: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 张怡婷\n通用要件: 推荐信 2 (RL 2)\n状态: 准备中\n说明: 实习公司创意总监已答应，撰写中。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 推荐信 2 (RL 2)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-gradCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[材料反馈] 张怡婷: 毕业双证 (Degree Certs)
-DESCRIPTION:学生: 张怡婷\n通用要件: 毕业双证 (Degree Certs)\n状态: 已完成\n说明: 往届毕业生，双证中英文翻译件已办妥。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 毕业双证 (Degree Certs)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-gradCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260710
-SUMMARY:[材料反馈] 张怡婷: 毕业双证 (Degree Certs)
-DESCRIPTION:学生: 张怡婷\n通用要件: 毕业双证 (Degree Certs)\n状态: 已完成\n说明: 往届毕业生，双证中英文翻译件已办妥。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 毕业双证 (Degree Certs)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-transcript@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[材料反馈] 张怡婷: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 张怡婷\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 四年完整成绩单中英文原件。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 中英文成绩单 (Transcripts)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-transcript-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260710
-SUMMARY:[材料反馈] 张怡婷: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 张怡婷\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 四年完整成绩单中英文原件。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 中英文成绩单 (Transcripts)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-gradingSystem@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[材料反馈] 张怡婷: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 张怡婷\n通用要件: 成绩评分标准 (Grading System)\n状态: 已完成\n说明: 成绩单背面已带评分说明。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-gradingSystem-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260710
-SUMMARY:[材料反馈] 张怡婷: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 张怡婷\n通用要件: 成绩评分标准 (Grading System)\n状态: 已完成\n说明: 成绩单背面已带评分说明。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-2-gpaCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[材料反馈] 张怡婷: 均分证明 (GPA Cert)
-DESCRIPTION:学生: 张怡婷\n通用要件: 均分证明 (GPA Cert)\n状态: 已完成\n说明: 学校盖章的GPA证明已扫描。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 张怡婷: 均分证明 (GPA Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-2-gpaCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260710
-SUMMARY:[材料反馈] 张怡婷: 均分证明 (GPA Cert)
-DESCRIPTION:学生: 张怡婷\n通用要件: 均分证明 (GPA Cert)\n状态: 已完成\n说明: 学校盖章的GPA证明已扫描。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 张怡婷: 均分证明 (GPA Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-2-app-2-1-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:[专属要件] 张怡婷 - 皇家艺术学院: 个人陈述 (PS)
-DESCRIPTION:学生: 张怡婷\n目标高校: 皇家艺术学院 (MA in Service Design)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 张怡婷 - 皇家艺术学院: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-2-app-2-1-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260810
-SUMMARY:[专属要件] 张怡婷 - 皇家艺术学院: 个人陈述 (PS)
-DESCRIPTION:学生: 张怡婷\n目标高校: 皇家艺术学院 (MA in Service Design)\n要件: 个人陈述 (PS)\n状态: 准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 张怡婷 - 皇家艺术学院: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-2-app-2-1-portfolio@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:[专属要件] 张怡婷 - 皇家艺术学院: 作品集 (Portfolio)
-DESCRIPTION:学生: 张怡婷\n目标高校: 皇家艺术学院 (MA in Service Design)\n要件: 作品集 (Portfolio)\n状态: 准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 张怡婷 - 皇家艺术学院: 作品集 (Portfolio)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-2-app-2-1-portfolio-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260901
-SUMMARY:[专属要件] 张怡婷 - 皇家艺术学院: 作品集 (Portfolio)
-DESCRIPTION:学生: 张怡婷\n目标高校: 皇家艺术学院 (MA in Service Design)\n要件: 作品集 (Portfolio)\n状态: 准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 张怡婷 - 皇家艺术学院: 作品集 (Portfolio)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-2-app-2-1-video@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:[专属要件] 张怡婷 - 皇家艺术学院: 视频任务 (Video)
-DESCRIPTION:学生: 张怡婷\n目标高校: 皇家艺术学院 (MA in Service Design)\n要件: 视频任务 (Video)\n状态: 未开始
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 张怡婷 - 皇家艺术学院: 视频任务 (Video)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-2-app-2-1-video-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260820
-SUMMARY:[专属要件] 张怡婷 - 皇家艺术学院: 视频任务 (Video)
-DESCRIPTION:学生: 张怡婷\n目标高校: 皇家艺术学院 (MA in Service Design)\n要件: 视频任务 (Video)\n状态: 未开始
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 张怡婷 - 皇家艺术学院: 视频任务 (Video)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-2-app-2-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:[申请截止] 张怡婷 - 皇家艺术学院
-DESCRIPTION:学生: 张怡婷\n申请高校: 皇家艺术学院\n项目: MA in Service Design\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 张怡婷 - 皇家艺术学院
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-2-app-2-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261015
-SUMMARY:[申请截止] 张怡婷 - 皇家艺术学院
-DESCRIPTION:学生: 张怡婷\n申请高校: 皇家艺术学院\n项目: MA in Service Design\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 张怡婷 - 皇家艺术学院
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-2-app-2-2-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[专属要件] 张怡婷 - 伦敦艺术大学: 个人陈述 (PS)
-DESCRIPTION:学生: 张怡婷\n目标高校: 伦敦艺术大学 (MA in Interaction Design)\n要件: 个人陈述 (PS)\n状态: 未开始
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 张怡婷 - 伦敦艺术大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-2-app-2-2-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260815
-SUMMARY:[专属要件] 张怡婷 - 伦敦艺术大学: 个人陈述 (PS)
-DESCRIPTION:学生: 张怡婷\n目标高校: 伦敦艺术大学 (MA in Interaction Design)\n要件: 个人陈述 (PS)\n状态: 未开始
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 张怡婷 - 伦敦艺术大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-2-app-2-2-portfolio@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:[专属要件] 张怡婷 - 伦敦艺术大学: 作品集 (Portfolio)
-DESCRIPTION:学生: 张怡婷\n目标高校: 伦敦艺术大学 (MA in Interaction Design)\n要件: 作品集 (Portfolio)\n状态: 准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 张怡婷 - 伦敦艺术大学: 作品集 (Portfolio)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-2-app-2-2-portfolio-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260901
-SUMMARY:[专属要件] 张怡婷 - 伦敦艺术大学: 作品集 (Portfolio)
-DESCRIPTION:学生: 张怡婷\n目标高校: 伦敦艺术大学 (MA in Interaction Design)\n要件: 作品集 (Portfolio)\n状态: 准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 张怡婷 - 伦敦艺术大学: 作品集 (Portfolio)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-2-app-2-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:[申请截止] 张怡婷 - 伦敦艺术大学
-DESCRIPTION:学生: 张怡婷\n申请高校: 伦敦艺术大学\n项目: MA in Interaction Design\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 张怡婷 - 伦敦艺术大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-2-app-2-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261110
-SUMMARY:[申请截止] 张怡婷 - 伦敦艺术大学
-DESCRIPTION:学生: 张怡婷\n申请高校: 伦敦艺术大学\n项目: MA in Interaction Design\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 张怡婷 - 伦敦艺术大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-2-todo-2-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:[督学待办] 张怡婷: 起草RCA 视频任务脚本大纲
-DESCRIPTION:学生: 张怡婷\n待办内容: 起草RCA 视频任务脚本大纲\n关联学校: 皇家艺术学院\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 张怡婷: 起草RCA 视频任务脚本大纲
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-2-todo-2-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260726
-SUMMARY:[督学待办] 张怡婷: 起草RCA 视频任务脚本大纲
-DESCRIPTION:学生: 张怡婷\n待办内容: 起草RCA 视频任务脚本大纲\n关联学校: 皇家艺术学院\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 张怡婷: 起草RCA 视频任务脚本大纲
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-2-todo-2-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:[督学待办] 张怡婷: 渲染作品集第四个项目的3D模型
-DESCRIPTION:学生: 张怡婷\n待办内容: 渲染作品集第四个项目的3D模型\n关联学校: 通用\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 张怡婷: 渲染作品集第四个项目的3D模型
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-2-todo-2-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260723
-SUMMARY:[督学待办] 张怡婷: 渲染作品集第四个项目的3D模型
-DESCRIPTION:学生: 张怡婷\n待办内容: 渲染作品集第四个项目的3D模型\n关联学校: 通用\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 张怡婷: 渲染作品集第四个项目的3D模型
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-2-todo-2-3@advisor.app
-DTSTAMP:20260812T080448Z
+UID:todo-student-1785917648083-todo-1785917648083-1@advisor.app
+DTSTAMP:20260812T081503Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:[督学待办] 张怡婷: 联系实习总监跟进推荐信签名进度
-DESCRIPTION:学生: 张怡婷\n待办内容: 联系实习总监跟进推荐信签名进度\n关联学校: 皇家艺术学院\n状态: 待处理
+SUMMARY:[督学待办] 古弘懿: 起草通用个人简历 (CV) 第一版
+DESCRIPTION:学生: 古弘懿\n待办内容: 起草通用个人简历 (CV) 第一版\n关联学校: 通用\n状态: 已完成
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 张怡婷: 联系实习总监跟进推荐信签名进度
+DESCRIPTION:督学提醒: [督学待办] 古弘懿: 起草通用个人简历 (CV) 第一版
 TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:todo-student-2-todo-2-3-todo@advisor.app
-DTSTAMP:20260812T080448Z
+UID:todo-student-1785917648083-todo-1785917648083-1-todo@advisor.app
+DTSTAMP:20260812T081503Z
 DUE;VALUE=DATE:20260728
-SUMMARY:[督学待办] 张怡婷: 联系实习总监跟进推荐信签名进度
-DESCRIPTION:学生: 张怡婷\n待办内容: 联系实习总监跟进推荐信签名进度\n关联学校: 皇家艺术学院\n状态: 待处理
+SUMMARY:[督学待办] 古弘懿: 起草通用个人简历 (CV) 第一版
+DESCRIPTION:学生: 古弘懿\n待办内容: 起草通用个人简历 (CV) 第一版\n关联学校: 通用\n状态: 已完成
 STATUS:NEEDS-ACTION
 PRIORITY:1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 张怡婷: 联系实习总监跟进推荐信签名进度
+DESCRIPTION:待办提醒: [督学待办] 古弘懿: 起草通用个人简历 (CV) 第一版
 TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VTODO
 BEGIN:VEVENT
-UID:mat-global-student-3-cv@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-SUMMARY:[材料反馈] 陈俊宇: 个人简历 (CV)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 个人简历 (CV)\n状态: 准备中\n说明: 需补充近期在券商的实习经历。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 个人简历 (CV)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-3-cv-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260724
-SUMMARY:[材料反馈] 陈俊宇: 个人简历 (CV)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 个人简历 (CV)\n状态: 准备中\n说明: 需补充近期在券商的实习经历。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 个人简历 (CV)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-3-recLetter1@advisor.app
-DTSTAMP:20260812T080448Z
+UID:todo-student-1785917648083-todo-1785917648083-2@advisor.app
+DTSTAMP:20260812T081503Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:[材料反馈] 陈俊宇: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 拟邀请计量经济学老师，尚未发邀请信。
+SUMMARY:[督学待办] 古弘懿: 开具中英文前三年官方成绩单
+DESCRIPTION:学生: 古弘懿\n待办内容: 开具中英文前三年官方成绩单\n关联学校: 通用\n状态: 已完成
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 推荐信 1 (RL 1)
+DESCRIPTION:督学提醒: [督学待办] 古弘懿: 开具中英文前三年官方成绩单
 TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:mat-global-student-3-recLetter1-todo@advisor.app
-DTSTAMP:20260812T080448Z
+UID:todo-student-1785917648083-todo-1785917648083-2-todo@advisor.app
+DTSTAMP:20260812T081503Z
 DUE;VALUE=DATE:20260805
-SUMMARY:[材料反馈] 陈俊宇: 推荐信 1 (RL 1)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 推荐信 1 (RL 1)\n状态: 未开始\n说明: 拟邀请计量经济学老师，尚未发邀请信。
+SUMMARY:[督学待办] 古弘懿: 开具中英文前三年官方成绩单
+DESCRIPTION:学生: 古弘懿\n待办内容: 开具中英文前三年官方成绩单\n关联学校: 通用\n状态: 已完成
 STATUS:NEEDS-ACTION
 PRIORITY:1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 推荐信 1 (RL 1)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-3-recLetter2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:[材料反馈] 陈俊宇: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 拟邀请券商实习导师。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 推荐信 2 (RL 2)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-3-recLetter2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260810
-SUMMARY:[材料反馈] 陈俊宇: 推荐信 2 (RL 2)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 推荐信 2 (RL 2)\n状态: 未开始\n说明: 拟邀请券商实习导师。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 推荐信 2 (RL 2)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-3-transcript@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:[材料反馈] 陈俊宇: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 中英文成绩单已获取。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 中英文成绩单 (Transcripts)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-3-transcript-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260715
-SUMMARY:[材料反馈] 陈俊宇: 中英文成绩单 (Transcripts)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 中英文成绩单 (Transcripts)\n状态: 已完成\n说明: 中英文成绩单已获取。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 中英文成绩单 (Transcripts)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-3-enrollmentCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:[材料反馈] 陈俊宇: 在读证明 (Enrollment Cert)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 在读证明 (Enrollment Cert)\n状态: 已完成\n说明: 在读证明已获取。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 在读证明 (Enrollment Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-3-enrollmentCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260715
-SUMMARY:[材料反馈] 陈俊宇: 在读证明 (Enrollment Cert)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 在读证明 (Enrollment Cert)\n状态: 已完成\n说明: 在读证明已获取。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 在读证明 (Enrollment Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-3-gradingSystem@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[材料反馈] 陈俊宇: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 成绩评分标准 (Grading System)\n状态: 未开始\n说明: 港校需要官方评分标准。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-3-gradingSystem-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260815
-SUMMARY:[材料反馈] 陈俊宇: 成绩评分标准 (Grading System)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 成绩评分标准 (Grading System)\n状态: 未开始\n说明: 港校需要官方评分标准。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 成绩评分标准 (Grading System)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-global-student-3-gpaCert@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:[材料反馈] 陈俊宇: 均分证明 (GPA Cert)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 均分证明 (GPA Cert)\n状态: 未开始\n说明: 因成绩单未显示百分制均分，需额外开具均分证明。
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [材料反馈] 陈俊宇: 均分证明 (GPA Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-global-student-3-gpaCert-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260820
-SUMMARY:[材料反馈] 陈俊宇: 均分证明 (GPA Cert)
-DESCRIPTION:学生: 陈俊宇\n通用要件: 均分证明 (GPA Cert)\n状态: 未开始\n说明: 因成绩单未显示百分制均分，需额外开具均分证明。
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [材料反馈] 陈俊宇: 均分证明 (GPA Cert)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-3-app-3-1-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:[专属要件] 陈俊宇 - 香港大学: 个人陈述 (PS)
-DESCRIPTION:学生: 陈俊宇\n目标高校: 香港大学 (Master of Finance)\n要件: 个人陈述 (PS)\n状态: 待修改
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 陈俊宇 - 香港大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-3-app-3-1-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260728
-SUMMARY:[专属要件] 陈俊宇 - 香港大学: 个人陈述 (PS)
-DESCRIPTION:学生: 陈俊宇\n目标高校: 香港大学 (Master of Finance)\n要件: 个人陈述 (PS)\n状态: 待修改
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 陈俊宇 - 香港大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-3-app-3-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:[申请截止] 陈俊宇 - 香港大学
-DESCRIPTION:学生: 陈俊宇\n申请高校: 香港大学\n项目: Master of Finance\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 陈俊宇 - 香港大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-3-app-3-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260930
-SUMMARY:[申请截止] 陈俊宇 - 香港大学
-DESCRIPTION:学生: 陈俊宇\n申请高校: 香港大学\n项目: Master of Finance\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 陈俊宇 - 香港大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:mat-app-student-3-app-3-2-ps@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[专属要件] 陈俊宇 - 新加坡国立大学: 个人陈述 (PS)
-DESCRIPTION:学生: 陈俊宇\n目标高校: 新加坡国立大学 (MSc in Finance)\n要件: 个人陈述 (PS)\n状态: 未开始
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [专属要件] 陈俊宇 - 新加坡国立大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:mat-app-student-3-app-3-2-ps-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260801
-SUMMARY:[专属要件] 陈俊宇 - 新加坡国立大学: 个人陈述 (PS)
-DESCRIPTION:学生: 陈俊宇\n目标高校: 新加坡国立大学 (MSc in Finance)\n要件: 个人陈述 (PS)\n状态: 未开始
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [专属要件] 陈俊宇 - 新加坡国立大学: 个人陈述 (PS)
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:deadline-legacy-student-3-app-3-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:[申请截止] 陈俊宇 - 新加坡国立大学
-DESCRIPTION:学生: 陈俊宇\n申请高校: 新加坡国立大学\n项目: MSc in Finance\n当前状态: 材料准备中
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [申请截止] 陈俊宇 - 新加坡国立大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:deadline-legacy-student-3-app-3-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20261015
-SUMMARY:[申请截止] 陈俊宇 - 新加坡国立大学
-DESCRIPTION:学生: 陈俊宇\n申请高校: 新加坡国立大学\n项目: MSc in Finance\n当前状态: 材料准备中
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [申请截止] 陈俊宇 - 新加坡国立大学
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-3-todo-3-1@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[督学待办] 陈俊宇: 重构港大 个人陈述（PS）第一段，增加核心量化项目陈述
-DESCRIPTION:学生: 陈俊宇\n待办内容: 重构港大 个人陈述（PS）第一段，增加核心量化项目陈述\n关联学校: 香港大学 (HKU)\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 陈俊宇: 重构港大 个人陈述（PS）第一段，增加核心量化项目陈述
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-3-todo-3-1-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260725
-SUMMARY:[督学待办] 陈俊宇: 重构港大 个人陈述（PS）第一段，增加核心量化项目陈述
-DESCRIPTION:学生: 陈俊宇\n待办内容: 重构港大 个人陈述（PS）第一段，增加核心量化项目陈述\n关联学校: 香港大学 (HKU)\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 陈俊宇: 重构港大 个人陈述（PS）第一段，增加核心量化项目陈述
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-3-todo-3-2@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-SUMMARY:[督学待办] 陈俊宇: 修改个人简历（CV），增加最近的券商行研实习内容
-DESCRIPTION:学生: 陈俊宇\n待办内容: 修改个人简历（CV），增加最近的券商行研实习内容\n关联学校: 通用\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 陈俊宇: 修改个人简历（CV），增加最近的券商行研实习内容
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-3-todo-3-2-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260724
-SUMMARY:[督学待办] 陈俊宇: 修改个人简历（CV），增加最近的券商行研实习内容
-DESCRIPTION:学生: 陈俊宇\n待办内容: 修改个人简历（CV），增加最近的券商行研实习内容\n关联学校: 通用\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 陈俊宇: 修改个人简历（CV），增加最近的券商行研实习内容
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VTODO
-BEGIN:VEVENT
-UID:todo-student-3-todo-3-3@advisor.app
-DTSTAMP:20260812T080448Z
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:[督学待办] 陈俊宇: 写邮件并致电计量经济学张老师，请求撰写推荐信
-DESCRIPTION:学生: 陈俊宇\n待办内容: 写邮件并致电计量经济学张老师，请求撰写推荐信\n关联学校: 通用\n状态: 待处理
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:督学提醒: [督学待办] 陈俊宇: 写邮件并致电计量经济学张老师，请求撰写推荐信
-TRIGGER:-P0DT9H0M0S
-END:VALARM
-END:VEVENT
-BEGIN:VTODO
-UID:todo-student-3-todo-3-3-todo@advisor.app
-DTSTAMP:20260812T080448Z
-DUE;VALUE=DATE:20260726
-SUMMARY:[督学待办] 陈俊宇: 写邮件并致电计量经济学张老师，请求撰写推荐信
-DESCRIPTION:学生: 陈俊宇\n待办内容: 写邮件并致电计量经济学张老师，请求撰写推荐信\n关联学校: 通用\n状态: 待处理
-STATUS:NEEDS-ACTION
-PRIORITY:1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:待办提醒: [督学待办] 陈俊宇: 写邮件并致电计量经济学张老师，请求撰写推荐信
+DESCRIPTION:待办提醒: [督学待办] 古弘懿: 开具中英文前三年官方成绩单
 TRIGGER:-P0DT9H0M0S
 END:VALARM
 END:VTODO
